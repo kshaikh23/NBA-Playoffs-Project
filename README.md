@@ -1,5 +1,5 @@
 # The Play of the Playoffs
-In the world of basketball, more specifically the NBA, clutch is a term that is thrown around very liberally; the term relates to the phenomenon where athletes excel under pressure. Analysts attempt to identify different factors that indicate whether or not a team is constructed with clutch players or playoff culture, among many other things, that culminate to winning the ultimate prize, The Larry O’Brien Trophy. Supposedly, the NBA playoffs is a whole different animal compared to the regular season. We wanted to see if the analytics supported this theory. We set out to see the difference between regular season and playoff play, both for individuals and teams. 
+We set out to find how NBA play changes in the playoffs. At the same time, we wanted to come up with an algorithm that can predict how a player will play in the playoffs based on their play in the regular season.
 
 After scraping and cleaning data for basketball-reference.com using the pandas library:
 
